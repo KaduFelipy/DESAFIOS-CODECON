@@ -10,5 +10,4 @@ Este é um repositório para mostrar habilidade de programação, basicamente pe
 
 
 ## DESAFIOS
-- Como primeiro desafio peguei o desafio postado no YouTube da CodeCon, que no vídeo é um desafio de Kata, mas vou aplicar a solução individualmente. A principio separei 15 min para pensar no projeto e 1 hora e meia de codificação. O desafio é:
-### FAZER UM CRONOMETRO, COM OS SEGUINTES BOTÕES (FULLSCREEN, EDITAR, PLAY, PAUSE, RESET).
+- Como primeiro desafio peguei o desafio postado no YouTube da CodeCon, que no vídeo é um desafio de Kata, mas vou aplicar a solução individualmente. A principio separei 15 min para pensar no projeto e 1 hora e meia de codificação. O desafio é: FAZER UM CRONOMETRO, COM OS SEGUINTES BOTÕES (FULLSCREEN, EDITAR, PLAY, PAUSE, RESET).
