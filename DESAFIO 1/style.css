@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+main{
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.caixa-cronomentro{
+    height: 30vh;
+}
+
+.caixa-inputs{
+    margin-bottom: 2rem;
+}
+
+.caixa-inputs input{
+    text-align: center;
+    border: none;
+    font-size: 5rem;
+    max-width: 30%;
+}
+.caixa-inputs span{
+    font-size: 5rem;
+}
+.caixa-botoes{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 1rem;
+}
+
+.caixa-botoes button{
+    text-align: center;
+    background: transparent;
+    font-size: 1rem;
+    padding: .5rem;
+    border: 1px solid #000;
+    border-radius: 100%;
+    cursor: pointer;
+}
